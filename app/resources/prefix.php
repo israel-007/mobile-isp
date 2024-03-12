@@ -131,14 +131,53 @@
 
 
 
-// $prefix['ghana']['vodafone'] = array(
+$prefix['ghana']['mtn'] = array(
 
-//     '0030'
+    '024',
 
-// );
+    '025',
 
+    '054',
 
+    '055',
 
+    '059',
+
+    '053'
+
+);
+
+$prefix['ghana']['glo'] = array(
+
+    '023'
+
+);
+
+$prefix['ghana']['airtel'] = array(
+
+    '027',
+
+    '057',
+
+    '026',
+
+    '056'
+
+);
+
+$prefix['ghana']['vodafone'] = array(
+
+    '020',
+
+    '050'
+
+);
+
+$prefix['ghana']['expresso'] = array(
+
+    '028'
+
+);
 
 
 
