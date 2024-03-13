@@ -27,3 +27,17 @@ $country['ghana'] = array(
     "internet_tld" => ".gh",
     "iso_3166_code" => "GH"
 );
+
+$country['egypt'] = array(
+    "country" => "Egypt",
+    "capital" => "Cairo",
+    "official_language" => "Arabic",
+    "language_short" => "ar",
+    "currency" => "Egyptian Pound (EGP)",
+    "currency_symbol" => "E£",
+    "region" => "North Africa",
+    "time_zone" => "Eastern European Time (EET)",
+    "dail_code" => "+20",
+    "internet_tld" => ".eg",
+    "iso_3166_code" => "EG"
+);

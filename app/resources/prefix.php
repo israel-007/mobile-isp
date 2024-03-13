@@ -128,60 +128,84 @@
 }
 
 // --------------------------------------------------------------------- GHANA
+{
 
+    $prefix['ghana']['mtn'] = array(
 
+        '024',
 
-$prefix['ghana']['mtn'] = array(
+        '025',
 
-    '024',
+        '054',
 
-    '025',
+        '055',
 
-    '054',
+        '059',
 
-    '055',
+        '053'
 
-    '059',
+    );
 
-    '053'
+    $prefix['ghana']['glo'] = array(
 
-);
+        '023'
 
-$prefix['ghana']['glo'] = array(
+    );
 
-    '023'
+    $prefix['ghana']['airtel'] = array(
 
-);
+        '027',
 
-$prefix['ghana']['airtel'] = array(
+        '057',
 
-    '027',
+        '026',
 
-    '057',
+        '056'
 
-    '026',
+    );
 
-    '056'
+    $prefix['ghana']['vodafone'] = array(
 
-);
+        '020',
 
-$prefix['ghana']['vodafone'] = array(
+        '050'
 
-    '020',
+    );
 
-    '050'
+    $prefix['ghana']['expresso'] = array(
 
-);
+        '028'
 
-$prefix['ghana']['expresso'] = array(
+    );
 
-    '028'
+}
 
-);
+// --------------------------------------------------------------------- EGYPT
+{
 
+    $prefix['egypt']['vodafone'] = array(
 
+        '010'
 
+    );
 
+    $prefix['egypt']['etisalat'] = array(
 
+        '011'
 
+    );
+
+    $prefix['egypt']['orange'] = array(
+
+        '012'
+
+    );
+
+    $prefix['egypt']['we'] = array(
+
+        '015'
+
+    );
+
+}
 
