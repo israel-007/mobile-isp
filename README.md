@@ -1,6 +1,6 @@
 # Mobile ISP
 
-Mobile ISP is a PHP project that provides information about a phone number sent to the endpoint. It retrieves details such as the ISP (Internet Service Provider), country information, country dial code, and phone number in international format. Currently, the endpoint supports phone number lookups for Nigeria, Ghana and Egypt.
+Mobile ISP is a PHP project that provides information about a phone number sent to the endpoint. It retrieves details such as the ISP (Internet Service Provider), country information, country dial code, and phone number in international format. Currently, the endpoint supports phone number lookups for Nigeria, Ghana, Egypt and South Africa.
 
 ## Installation
 
