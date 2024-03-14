@@ -33,7 +33,7 @@ class provider {
 
                         $leading_zero = false;
 
-                        $code = mb_substr($code, 1);
+                        // $code = mb_substr($code, 1);
 
                     }
 

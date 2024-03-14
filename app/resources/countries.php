@@ -41,3 +41,17 @@ $country['egypt'] = array(
     "internet_tld" => ".eg",
     "iso_3166_code" => "EG"
 );
+
+$country['south africa'] = array(
+    "country" => "South Africa",
+    "capital" => "Pretoria (executive), Bloemfontein (judicial), Cape Town (legislative)",
+    "official_language" => "Zulu, Xhosa, Afrikaans, English, Northern Sotho, Tswana, Southern Sotho, Tsonga, Swati, Venda, Ndebele",
+    "language_short" => "",
+    "currency" => "South African Rand (ZAR)",
+    "currency_symbol" => "R",
+    "region" => "Southern Africa",
+    "time_zone" => "South African Standard Time (SAST)",
+    "calling_code" => "+27",
+    "internet_tld" => ".za",
+    "iso_3166_code" => "ZA"
+);
