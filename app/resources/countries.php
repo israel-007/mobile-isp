@@ -51,7 +51,7 @@ $country['south africa'] = array(
     "currency_symbol" => "R",
     "region" => "Southern Africa",
     "time_zone" => "South African Standard Time (SAST)",
-    "calling_code" => "+27",
+    "dail_code" => "+27",
     "internet_tld" => ".za",
     "iso_3166_code" => "ZA"
 );
