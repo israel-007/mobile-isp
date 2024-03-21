@@ -1,6 +1,6 @@
 <?php
 
-$country['nigeria'] = array(
+$countries['nigeria'] = array(
     "name" => "Nigeria",
     "capital" => "Abuja",
     "official_language" => "English",
@@ -14,7 +14,7 @@ $country['nigeria'] = array(
     "iso_3166_code" => "NG"
 );
 
-$country['ghana'] = array(
+$countries['ghana'] = array(
     "name" => "Ghana",
     "capital" => "Accra",
     "official_language" => "English",
@@ -28,7 +28,7 @@ $country['ghana'] = array(
     "iso_3166_code" => "GH"
 );
 
-$country['egypt'] = array(
+$countries['egypt'] = array(
     "country" => "Egypt",
     "capital" => "Cairo",
     "official_language" => "Arabic",
@@ -42,7 +42,7 @@ $country['egypt'] = array(
     "iso_3166_code" => "EG"
 );
 
-$country['south africa'] = array(
+$countries['south africa'] = array(
     "country" => "South Africa",
     "capital" => "Pretoria (executive), Bloemfontein (judicial), Cape Town (legislative)",
     "official_language" => "Zulu, Xhosa, Afrikaans, English, Northern Sotho, Tswana, Southern Sotho, Tsonga, Swati, Venda, Ndebele",

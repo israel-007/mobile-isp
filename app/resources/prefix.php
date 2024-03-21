@@ -5,7 +5,7 @@
 
     // GSM 
 
-    $prefix['nigeria']['mtn'] = array(
+    $prefixes['nigeria']['mtn'] = array(
 
         '0803',
 
@@ -39,7 +39,7 @@
 
     );
 
-    $prefix['nigeria']['glo'] = array(
+    $prefixes['nigeria']['glo'] = array(
 
         '0705',
 
@@ -54,7 +54,7 @@
         '0905'
     );
 
-    $prefix['nigeria']['airtel'] = array(
+    $prefixes['nigeria']['airtel'] = array(
 
         '0701',
 
@@ -77,7 +77,7 @@
         '0912'
     );
 
-    $prefix['nigeria']['9mobile'] = array(
+    $prefixes['nigeria']['9mobile'] = array(
 
         '0809',
 
@@ -93,11 +93,11 @@
 
     // CDMA
 
-    $prefix['nigeria']['ntel'] = array(
+    $prefixes['nigeria']['ntel'] = array(
         '0804'
     );
 
-    $prefix['nigeria']['starcomms'] = array(
+    $prefixes['nigeria']['starcomms'] = array(
         '0819',
 
         '07028',
@@ -105,7 +105,7 @@
         '07029'
     );
 
-    $prefix['nigeria']['visafone'] = array(
+    $prefixes['nigeria']['visafone'] = array(
         '0709',
 
         '07028',
@@ -113,14 +113,14 @@
         // '07029' //duplicate
     );
 
-    $prefix['nigeria']['multi_links'] = array(
+    $prefixes['nigeria']['multi_links'] = array(
         // '0704', //duplicate
         // '07025', //duplicate
         // '07026' //duplicate
 
     );
 
-    $prefix['nigeria']['multi_links'] = array(
+    $prefixes['nigeria']['multi_links'] = array(
         '0707'
     );
 
@@ -130,7 +130,7 @@
 // --------------------------------------------------------------------- GHANA
 {
 
-    $prefix['ghana']['mtn'] = array(
+    $prefixes['ghana']['mtn'] = array(
 
         '024',
 
@@ -146,13 +146,13 @@
 
     );
 
-    $prefix['ghana']['glo'] = array(
+    $prefixes['ghana']['glo'] = array(
 
         '023'
 
     );
 
-    $prefix['ghana']['airtel'] = array(
+    $prefixes['ghana']['airtel'] = array(
 
         '027',
 
@@ -164,7 +164,7 @@
 
     );
 
-    $prefix['ghana']['vodafone'] = array(
+    $prefixes['ghana']['vodafone'] = array(
 
         '020',
 
@@ -172,7 +172,7 @@
 
     );
 
-    $prefix['ghana']['expresso'] = array(
+    $prefixes['ghana']['expresso'] = array(
 
         '028'
 
@@ -183,25 +183,25 @@
 // --------------------------------------------------------------------- EGYPT
 {
 
-    $prefix['egypt']['vodafone'] = array(
+    $prefixes['egypt']['vodafone'] = array(
 
         '010'
 
     );
 
-    $prefix['egypt']['etisalat'] = array(
+    $prefixes['egypt']['etisalat'] = array(
 
         '011'
 
     );
 
-    $prefix['egypt']['orange'] = array(
+    $prefixes['egypt']['orange'] = array(
 
         '012'
 
     );
 
-    $prefix['egypt']['we'] = array(
+    $prefixes['egypt']['we'] = array(
 
         '015'
 
@@ -212,7 +212,7 @@
 // --------------------------------------------------------------------- SOUTH AFRICA
 {
 
-    $prefix['south africa']['mtn'] = array(
+    $prefixes['south africa']['mtn'] = array(
         
         '603',
         '604',
@@ -241,7 +241,7 @@
         '83'
     );
 
-    $prefix['south africa']['vodacom'] = array(
+    $prefixes['south africa']['vodacom'] = array(
 
         '082',
         '072',
@@ -250,7 +250,7 @@
         '0762'
     );
 
-    $prefix['south africa']['telkom'] = array(
+    $prefixes['south africa']['telkom'] = array(
 
         '811',
         '812',
@@ -258,7 +258,7 @@
         '814'
     );
 
-    $prefix['south africa']['cell c'] = array(
+    $prefixes['south africa']['cell c'] = array(
 
         '074',
         '084'

@@ -17,16 +17,19 @@ To perform a phone number lookup, use the following syntax:
 require_once('app/autoload.php');
 
 // Make a lookup
-$response = Provider::get('your_phone_number_here');
+$response = Provider::check('your_phone_number_here');
+
+// This methos allows you to specify the country if you can which also improves the processing time
+$response = Provider::get('country name', 'your_phone_number_here');
 
 // Handle the response
 echo $response;
 ?>
 ```
 
-Replace 'your_phone_number_here' with the phone number you want to lookup.
+Replace 'your_phone_number_here' with the phone number you want to lookup, and 'country name' with the correct country name (spaces included)
 
-The Provider::get() method returns a JSON response with all the information needed.
+The **Provider::check()** and **Provider::get()** method returns a JSON response with all the information needed.
 
 ## Contribution
 
